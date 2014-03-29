@@ -1,0 +1,27 @@
+{
+  "name": "chutney-ci",
+  "version": "0.0.1",
+  "description": "pen source ci system for Mongrove Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*.js",
+    "install": "rm -rf /tmp/chutney && mkdir -p /tmp/chutney"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MangroveTech/chutney-ci.git"
+  },
+  "keywords": [
+    "ci",
+    "system"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "ZLIB",
+  "bugs": {
+    "url": "https://github.com/MangroveTech/chutney-ci/issues"
+  },
+  "homepage": "https://github.com/MangroveTech/chutney-ci",
+  "dependencies": {
+    "github": "~0.1.15"
+  }
+}
