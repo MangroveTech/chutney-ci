@@ -9,19 +9,13 @@ $ npm install chutney-ci
 ```
 
 ### Simple Usage
-```
+```js
 var Chutney = require('chutney').Chutney;
 var cy = new Chutney('{repo}', {
   'user': '{owner}',
   'privateToken': '{your private token}'
 });
 ```
-
-### Supported status
-
-![passing](tests/passing.png)
-
-![failed](tests/failed.png)
 
 ### Author
 
