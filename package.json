@@ -1,7 +1,7 @@
 {
   "name": "chutney-ci",
   "version": "0.0.1",
-  "description": "pen source ci system for Mongrove Projects",
+  "description": "open source ci system for Mongrove Projects",
   "main": "index.js",
   "scripts": {
     "test": "tape tests/*.js",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/MangroveTech/chutney-ci",
   "dependencies": {
-    "github": "~0.1.15"
+    "github": "~0.1.15",
+    "canvas": "https://github.com/yorkie/node-canvas/archive/1.1.3.tar.gz"
   }
 }

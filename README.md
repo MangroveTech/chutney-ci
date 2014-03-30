@@ -17,6 +17,17 @@ var cy = new Chutney('{repo}', {
 });
 ```
 
+### Supported status
+
+![passing](tests/passing.png)
+
+![failed](tests/failed.png)
+
+### Author
+
+[Yorkie Neil](https://github.com/yorkie)
+
+
 ### License
 
 ZLIB
