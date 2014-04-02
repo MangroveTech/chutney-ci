@@ -1,6 +1,6 @@
 {
   "name": "chutney-ci",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "open source ci system for Mongrove Projects",
   "main": "index.js",
   "scripts": {
