@@ -16,7 +16,7 @@
     "system"
   ],
   "author": "Yorkie Neil <yorkiefixer@gmail.com>",
-  "license": "ZLIB",
+  "license": "Zlib",
   "bugs": {
     "url": "https://github.com/MangroveTech/chutney-ci/issues"
   },
